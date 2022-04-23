@@ -95,7 +95,7 @@ const App = () => {
           </Form.Group>
         </Form>
         <Footer>
-          <em>Note app, Department of Computer Science 2022</em>
+          <em>Bloglist app, Full Stack open 2022</em>
         </Footer>
       </div>
     );
